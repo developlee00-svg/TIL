@@ -32,6 +32,7 @@
 
 | Date | Category | Topic |
 | --- | --- | --- |
+| 2026-05-20 | ML | [ML 기본 개념 정리](./spark/2026-05-19-emr-subnet-error.md) |
 | 2026-05-19 | Spark | [EMR 클러스터 VPC Subnet 필수 이슈](./spark/2026-05-19-emr-subnet-error.md) |
 | 2026-05-19 | Airflow | [`>>` 와 `>` 차이로 EMR이 먼저 종료된 사건](./airflow/2026-05-19-dependency-operator.md) |
 | 2026-05-18 | Spark | [`shuffle.partitions` 기본값 함정](./spark/2026-05-18-shuffle-partitions.md) |
@@ -45,7 +46,7 @@
 ## 📝 작성 규칙
 
 - 파일명: `YYYY-MM-DD-주제-한줄.md`
-- 글 하나당 5~30줄 권장 (길어지면 블로그로)
+- 글 하나당 5~30줄
 - 블로그에 정리한 글은 본 글 하단에 링크 표기
 
 ---
