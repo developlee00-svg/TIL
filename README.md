@@ -26,7 +26,7 @@
 - **[Docker](./docker/)** — Compose 패턴, 네트워크 이슈
 - **[Kubernetes](./kubernetes/)** — Karpenter, HPA, EFS
 
-일부 레포는 아직 블로그에만 있고 깃에는 추후 추가 예정
+#### 일부 레포는 아직 블로그에만 있고 깃에는 추후 추가 예정
 ---
 
 ## 📌 Recent Entries
