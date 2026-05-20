@@ -2,8 +2,8 @@
 
 > 매일 배운 것을 짧게 기록합니다. 자세한 정리는 [블로그](https://dev-lee.tistory.com)에 있습니다.
 
-![Last Commit](https://img.shields.io/github/last-commit/yourname/TIL?style=flat&color=blue)
-![Repo Size](https://img.shields.io/github/repo-size/yourname/TIL?style=flat&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/developlee00-svg/TIL?style=flat&color=blue)
+![Repo Size](https://img.shields.io/github/repo-size/developlee00-svg/TIL?style=flat&color=green)
 
 ---
 
