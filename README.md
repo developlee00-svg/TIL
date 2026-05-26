@@ -33,9 +33,11 @@
 
 | Date | Category | Topic |
 | --- | --- | --- |
-| 2026-05-20 | ML | [ML 기본 개념 정리](https://github.com/developlee00-svg/TIL/blob/main/ML/2026-05-20-ML-concept.md) |
-| 2026-05-19 | Spark | [EMR 클러스터 VPC Subnet 필수 이슈](https://github.com/developlee00-svg/TIL/blob/main/Spark/2026-05-19-emr-subnet-error.md) |
-| 2026-05-19 | Airflow | [`>>` 와 `>` 차이로 EMR이 먼저 종료된 사건](https://github.com/developlee00-svg/TIL/blob/main/Spark/2026-05-19-emr-subnet-error.md) |
+| 2026-05-26 | ML & DL | [DL 4 - NLP 모델 (RNN부터 LLM까지)](https://github.com/developlee00-svg/TIL/blob/main/ML&DL/2026-05-26-DL-NLP-models.md) |
+| 2026-05-26 | ML & DL | [DL 3 - CNN과 가중치 학습 파라미터에 대한 통찰](https://github.com/developlee00-svg/TIL/blob/main/ML&DL/2026-05-26-DL-CNN.md) |
+| 2026-05-26 | ML & DL | [DL 2 - 전이학습](https://github.com/developlee00-svg/TIL/blob/main/ML&DL/2026-05-26-DL-transfer-learning.md) |
+| 2026-05-26 | ML & DL | [DL 1 - 딥러닝 개요와 베이스라인 구현](https://github.com/developlee00-svg/TIL/blob/main/ML&DL/2026-05-26-DL-overview.md) |
+| 2026-05-20 | ML & DL | [ML 기본 개념 정리](https://github.com/developlee00-svg/TIL/blob/main/ML&DL/2026-05-20-ML-concept.md) |
 
 > 전체 목록은 각 카테고리 폴더 README 참고.
 
